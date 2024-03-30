@@ -1,0 +1,17 @@
+h1, p, #text {
+    color: #141414;
+    font-family: serif;
+}
+body {
+    background-color: #C4828E;
+}
+#text {
+    border-radius: 5px;
+    border-color: black;
+    background-color: #D8ACB4;
+    font-size: medium;
+}
+p {
+    font-size: x-large;
+    font-weight: bold;
+}
